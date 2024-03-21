@@ -4,4 +4,4 @@
 </a>
 <img src="https://github.com/EhasanPial/EhasanPial/blob/main/gitName.png" alt=”my banner”>
 
-![Pial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehashanpial&show_icons=true&theme=radical)
+![Pial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehasanpial&show_icons=true&theme=radical)
