@@ -30,16 +30,12 @@
 
 ## 🔭 I'm currently working on
 
-- React
 - LynOrg Technologies Limited
-- Increasing MUI Skill
-- My CSS skill
+- React
+- Spring Boot
 
 ## 🌱 I'm currently learning
 
-- React
-- Firebase
-- React Context API
-- Styled Components 
+- MongoDB Aggregation
 
 
